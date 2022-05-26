@@ -23,7 +23,7 @@ For example, `[3,6,2,7]` is a subsequence of the array `[0,3,1,6,2,2,7]`.
 ---
 **Constraints**:  
 * 1 <= nums.length <= 2500
-* -104 <= nums[i] <= 104
+* -10^4 <= nums[i] <= 10^4
  
 ---
 **Follow up**:  
